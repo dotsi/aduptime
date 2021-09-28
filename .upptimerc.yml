@@ -1,6 +1,6 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: dotsi # Your GitHub organization or username, where this repository lives
+repo: aduptime # The name of this repository
 
 sites:
   - name: Adacta-fintech.com
@@ -9,10 +9,10 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: dotsi.github.com
+  # cname: dotsi.github.io
   baseUrl: /aduptime
   logoUrl: https://www.adacta-fintech.com/sites/5d0d52acc2d2417243927528/assets/5fe4862dc2d2415f04d6a02a/Adacta-logo-color-no-margin,P402x.png.pagespeed.ce._-4acER8op.png
-  name: Upptime
+  name: Adacta Websites Uptime
   introTitle: "Adacta Website Uptime Monitor"
   introMessage: 
   navbar:
