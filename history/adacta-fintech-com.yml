@@ -1,7 +1,7 @@
 url: https://www.adacta-fintech.com
-status: up
+status: degraded
 code: 200
-responseTime: 275
-lastUpdated: 2023-01-03T23:00:21.741Z
+responseTime: 1510
+lastUpdated: 2023-01-04T03:42:14.292Z
 startTime: Tue Sep 28 2021 06:52:25 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
