@@ -6,17 +6,16 @@
     "slug": "adacta-fintech-com",
     "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "98.99%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.83%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.85%",
     "time": 694,
-    "timeDay": 1742,
-    "timeWeek": 871,
-    "timeMonth": 719,
+    "timeDay": 1739,
+    "timeWeek": 869,
+    "timeMonth": 718,
     "timeYear": 656,
     "dailyMinutesDown": {
-      "2023-06-14": 15,
       "2023-06-03": 37,
       "2023-05-30": 18,
       "2023-05-29": 4,
@@ -34,8 +33,7 @@
       "2022-09-01": 16,
       "2022-08-30": 42,
       "2022-08-22": 37,
-      "2022-06-17": 45,
-      "2022-06-15": 16
+      "2022-06-17": 45
     }
   }
 ]
